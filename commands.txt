@@ -1,0 +1,3 @@
+print Hello!
+
+split a:bc:d:ef :
