@@ -2,8 +2,6 @@ print Hello!
 
 split a:bc:d:ef :
 
-Heelo, Sergey!
+print Hello, Sergey!
 
-My name is Angelina
-
-Goooood night
+split A:n:gel:i:n:a
